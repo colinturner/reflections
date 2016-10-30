@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+-Bash automatically scans the two texts to find the differences in them.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+-Pros of manual: you can choose good, logical save points.
+-Cons of manual: you might forget to save often enough, or you might save too frequently.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+- Because in coding, many files are often related to one single project and they are interdependent.
+
+How can you use the commands git log and git diff to view the history of files?
+- You use git log to get the commit ID's. Then you use git diff with two ID's to 
+see the difference between the two.
+
+How might using version control make you more confident to make changes that could break something?
+- You have the assurance of being able to retrieve older companies. You can always rewind time, thus
+you can experiment without real risk.
