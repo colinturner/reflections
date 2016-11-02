@@ -18,7 +18,8 @@ Branch = A chain of commits.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
+-The benefit is being able to run git diff and git status to see the difference between the last known GitHub version 
+and your local version of a repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
