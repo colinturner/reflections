@@ -23,6 +23,8 @@ and your local version of a repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
+-I would probably use Google Docs or Dropbox or another version control software. If no such software were available,
+I would use email attahments which would be difficult to keep track of.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
