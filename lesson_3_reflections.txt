@@ -28,3 +28,5 @@ I would use email attahments which would be difficult to keep track of.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+-Make changes in a separate branch when you're adding a new or experimental feature and don't want to break the main
+master branch on GitHub.
